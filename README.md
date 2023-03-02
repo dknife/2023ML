@@ -17,9 +17,9 @@
 
 # 강의 노트
 
-[0. 강의소개](https://github.com/dknife/2023ML/blob/main/LectureNotes/00_%EC%9C%BC%EB%9C%B8%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EA%B0%95%EC%9D%98%EC%9E%90%EC%95%88%EB%82%B4%EC%84%9C.pdf)
+[0. 강의소개](https://github.com/dknife/2023ML/raw/main/LectureNotes/00_%EC%9C%BC%EB%9C%B8%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EA%B0%95%EC%9D%98%EC%9E%90%EC%95%88%EB%82%B4%EC%84%9C.pdf)
 
-[1. 머신러닝 소개]()
+[1. 머신러닝 소개](https://github.com/dknife/2023ML/raw/main/LectureNotes/01%EC%9E%A5_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80.pdf)
 
 # 과제
 
