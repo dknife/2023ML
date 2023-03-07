@@ -21,6 +21,9 @@
 
 [1. 머신러닝 소개](https://github.com/dknife/2023ML/raw/main/LectureNotes/01%EC%9E%A5_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80.pdf)
 
+[1. 머신러닝 소개](https://github.com/dknife/2023ML/raw/main/LectureNotes/01%EC%9E%A5_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80.pdf)
+
+
 # 과제
 
 ## 과제 1
