@@ -43,7 +43,9 @@
 
 ## 실습 0: 구현 환경
 
-[실습 0: 코랩 코드 공유](https://colab.research.google.com/drive/1pcgCyfVX8YGnKpgDpxhEmKuDgm3qPeub)
+[실습 0-1: 코랩 코드 공유](https://colab.research.google.com/drive/1pcgCyfVX8YGnKpgDpxhEmKuDgm3qPeub)
+
+[실습 0-2: 파이썬 특징 연습(https://colab.research.google.com/drive/1xbFIxM5iZfR57hFbPFgEkkIu2VssL67n?usp=sharing)
 
 ## 실습 1: 넘파이
 [실습 1-1]()
