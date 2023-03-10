@@ -41,5 +41,9 @@
 
 # 실습
 
+## 실습 0: 구현 환경
+
+[실습 0: 코랩 코드 공유](https://colab.research.google.com/drive/1pcgCyfVX8YGnKpgDpxhEmKuDgm3qPeub)
+
 ## 실습 1: 넘파이
 [실습 1-1]()
