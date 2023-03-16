@@ -25,27 +25,15 @@
 
 [3. 구현을 위한 기본 지식](https://github.com/dknife/2023ML/raw/main/LectureNotes/03%EC%9E%A5_%EA%B5%AC%ED%98%84%EC%9D%84%EC%9C%84%ED%95%9C%20%EB%8F%84%EA%B5%AC.pdf)
 
-# 과제
-
-## 과제 1
-
-## 과제 2
-
-## 과제 3
-
-## 과제 4
-
-## 과제 5
-
 
 
 # 실습
 
-## 실습 0: 구현 환경
+## 실습 2: 구현 환경
 
-[실습 0-1: 코랩 코드 공유](https://colab.research.google.com/drive/1pcgCyfVX8YGnKpgDpxhEmKuDgm3qPeub)
+[실습 2-1: 코랩 코드 공유](https://colab.research.google.com/drive/1pcgCyfVX8YGnKpgDpxhEmKuDgm3qPeub)
 
-[실습 0-2: 파이썬 특징 연습](https://colab.research.google.com/drive/1xbFIxM5iZfR57hFbPFgEkkIu2VssL67n?usp=sharing)
+[실습 2-2: 파이썬 특징 연습](https://colab.research.google.com/drive/1xbFIxM5iZfR57hFbPFgEkkIu2VssL67n?usp=sharing)
 
-## 실습 1: 넘파이
-[실습 1-1]()
+## 실습 3: 기초 프로그래밍 연습
+[실습 3-1](https://colab.research.google.com/drive/15NzDULQhNe93u1AbBuOdRVqTiebWhqnV)
