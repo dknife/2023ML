@@ -36,4 +36,4 @@
 [실습 2-2: 파이썬 특징 연습](https://colab.research.google.com/drive/1xbFIxM5iZfR57hFbPFgEkkIu2VssL67n?usp=sharing)
 
 ## 실습 3: 기초 프로그래밍 연습
-[실습 3-1](https://colab.research.google.com/drive/15NzDULQhNe93u1AbBuOdRVqTiebWhqnV)
+[실습 3-1: 파이썬 연습](https://colab.research.google.com/drive/15NzDULQhNe93u1AbBuOdRVqTiebWhqnV)
