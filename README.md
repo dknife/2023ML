@@ -42,3 +42,5 @@
 [실습 3-2: 파이썬 함수 연습](https://github.com/dknife/2023ML/wiki/2023ML_Lec3PythonFunc)
 
 - [수업중 코드](https://colab.research.google.com/drive/1H4l0pIyOlgS3JnkvP0N9BzEmtjFXZgPk#scrollTo=R_c2dcajXJ3p)
+
+[실습 3-3: 넘파이 연습](https://colab.research.google.com/drive/1hFjSV4fFQIubbIiN-JW2qMLfYbxuMiw_)
