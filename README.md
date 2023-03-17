@@ -40,3 +40,5 @@
 [실습 3-1: 파이썬 기초 연습](https://colab.research.google.com/drive/15NzDULQhNe93u1AbBuOdRVqTiebWhqnV)
 
 [실습 3-2: 파이썬 함수 연습](https://github.com/dknife/2023ML/wiki/2023ML_Lec3PythonFunc)
+
+- [수업중 코드](https://colab.research.google.com/drive/1H4l0pIyOlgS3JnkvP0N9BzEmtjFXZgPk#scrollTo=R_c2dcajXJ3p)
