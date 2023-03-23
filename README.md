@@ -35,7 +35,7 @@
 
 [실습 2-2: 파이썬 특징 연습](https://colab.research.google.com/drive/1xbFIxM5iZfR57hFbPFgEkkIu2VssL67n?usp=sharing)
 
-## 실습 3: 기초 프로그래밍 연습
+## 실습 3: 기초 프로그래밍 연습 1 - 파이썬, 넘파이
 
 [실습 3-1: 파이썬 기초 연습](https://colab.research.google.com/drive/15NzDULQhNe93u1AbBuOdRVqTiebWhqnV)
 
@@ -44,5 +44,9 @@
 - [수업중 코드](https://colab.research.google.com/drive/1H4l0pIyOlgS3JnkvP0N9BzEmtjFXZgPk#scrollTo=R_c2dcajXJ3p)
 
 [실습 3-3: 넘파이 연습](https://colab.research.google.com/drive/1hFjSV4fFQIubbIiN-JW2qMLfYbxuMiw_)
+
+## 실습 4: 기초 프로그래밍 연습 - 판다스
+
+[실습 4-1: 판다스 기초 연습]()
 
 [따라하며 배우는 파이썬과 데이터과학 교재의 데이터 활용](https://github.com/dongupak/DataSciPy/tree/master/data/csv)
