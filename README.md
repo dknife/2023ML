@@ -44,3 +44,5 @@
 - [수업중 코드](https://colab.research.google.com/drive/1H4l0pIyOlgS3JnkvP0N9BzEmtjFXZgPk#scrollTo=R_c2dcajXJ3p)
 
 [실습 3-3: 넘파이 연습](https://colab.research.google.com/drive/1hFjSV4fFQIubbIiN-JW2qMLfYbxuMiw_)
+
+[따라하며 배우는 파이썬과 데이터과학 교재의 데이터 활용](https://github.com/dongupak/DataSciPy/tree/master/data/csv)
