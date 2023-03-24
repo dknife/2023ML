@@ -45,7 +45,7 @@
 
 [실습 3-3: 넘파이 연습](https://colab.research.google.com/drive/1hFjSV4fFQIubbIiN-JW2qMLfYbxuMiw_)
 
-## 실습 4: 기초 프로그래밍 연습 - 판다스
+## 실습 4: 기초 프로그래밍 연습 2 - 판다스
 
 [실습 4-1: 판다스 기초 연습](https://colab.research.google.com/drive/1KyHDmRFakm7NVcFRaMKAI1AkIbsKJGhe)
 
