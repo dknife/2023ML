@@ -49,4 +49,8 @@
 
 [실습 4-1: 판다스 기초 연습](https://colab.research.google.com/drive/1KyHDmRFakm7NVcFRaMKAI1AkIbsKJGhe)
 
+[실습 4-2: 판다스 연습 2](https://colab.research.google.com/drive/1GuSvSDeaJh7cFGaLNBoaM9BDyhVWVNaS)
+
 [따라하며 배우는 파이썬과 데이터과학 교재의 데이터 활용](https://github.com/dongupak/DataSciPy/tree/master/data/csv)
+
+
