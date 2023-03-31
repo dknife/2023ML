@@ -62,3 +62,6 @@
 ## 실습 5: 선형회귀
 
 [실습 5-1: 가설 hypothesis](https://colab.research.google.com/drive/1LxjtoN0zD3nHff1GWJqqrltIylwg4My9?usp=sharing)
+
+[실습 5-2: 오차의 이해](https://colab.research.google.com/drive/1E3JMzAe9vB2NWfAfXS0JPiDuoD4lBAdX?usp=sharing)
+
