@@ -55,4 +55,8 @@
 
 [따라하며 배우는 파이썬과 데이터과학 교재의 데이터 활용](https://github.com/dongupak/DataSciPy/tree/master/data/csv)
 
+[실습 4-3: 판다스 연습 4](https://colab.research.google.com/drive/1TtBYyDP5tQx2uxMNiruQehH26OKk-Vji?usp=sharing)
 
+## 실습 5: 선형회귀
+
+[실습 5-1: 가설 hypothesis]()
