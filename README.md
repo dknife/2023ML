@@ -57,6 +57,8 @@
 
 [실습 4-3: 판다스 연습 4](https://colab.research.google.com/drive/1TtBYyDP5tQx2uxMNiruQehH26OKk-Vji?usp=sharing)
 
+[도전과제: 넘파이 성능](https://colab.research.google.com/drive/1FyXOSMPf24qazcGGLj02cUqFnESzkzY7?usp=sharing)
+
 ## 실습 5: 선형회귀
 
 [실습 5-1: 가설 hypothesis]()
