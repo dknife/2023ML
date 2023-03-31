@@ -61,4 +61,4 @@
 
 ## 실습 5: 선형회귀
 
-[실습 5-1: 가설 hypothesis]()
+[실습 5-1: 가설 hypothesis](https://colab.research.google.com/drive/1LxjtoN0zD3nHff1GWJqqrltIylwg4My9?usp=sharing)
