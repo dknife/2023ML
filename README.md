@@ -27,6 +27,8 @@
 
 [4 선형회귀로 이해하는 기계학습](https://github.com/dknife/2023ML/raw/main/LectureNotes/04%EC%9E%A5_%EC%84%A0%ED%98%95%20%ED%9A%8C%EA%B7%80%EB%A1%9C%20%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.pdf)
 
+[5 분류(Classification)와 군집화(clustering)](https://github.com/dknife/2023ML/raw/main/LectureNotes/04%EC%9E%A5_%EC%84%A0%ED%98%95%20%ED%9A%8C%EA%B7%80%EB%A1%9C%20%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.pdf)
+
 # 실습
 
 ## 실습 2: 구현 환경
