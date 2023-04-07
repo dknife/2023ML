@@ -71,4 +71,4 @@
 
 [실습 5-4: Scikit-Learn을 이용한 선형회귀](https://colab.research.google.com/drive/1bAVB6vYHddEj40qbY16xc80fB0rFP-8-?usp=sharing)
 
-[실습 5-5: 다변량 선형회기](https://colab.research.google.com/drive/1xmGot-1jUy06ZTP_2h7Myt9ClsFZlFVp?usp=sharing)
+[실습 5-5: 다변량 선형회귀](https://colab.research.google.com/drive/1xmGot-1jUy06ZTP_2h7Myt9ClsFZlFVp?usp=sharing)
