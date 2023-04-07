@@ -68,3 +68,5 @@
 [실습 5-2: 오차의 이해](https://colab.research.google.com/drive/1E3JMzAe9vB2NWfAfXS0JPiDuoD4lBAdX?usp=sharing)
 
 [실습 5-3: 오차를 감소시키는 경사하강 학습](https://colab.research.google.com/drive/1Rn7fYEXxLLqKYo6fJNXkrt5H2ebbeeKA?usp=sharing)
+
+[실습 5-4: Scikit-Learn을 이용한 선형회귀](https://colab.research.google.com/drive/1bAVB6vYHddEj40qbY16xc80fB0rFP-8-?usp=sharing)
