@@ -72,3 +72,7 @@
 [실습 5-4: Scikit-Learn을 이용한 선형회귀](https://colab.research.google.com/drive/1bAVB6vYHddEj40qbY16xc80fB0rFP-8-?usp=sharing)
 
 [실습 5-5: 다변량 선형회귀](https://colab.research.google.com/drive/1xmGot-1jUy06ZTP_2h7Myt9ClsFZlFVp?usp=sharing)
+
+## 실습 6: 분류와 클러스터링
+
+[실습 6-1: KNN 분류기 ](https://colab.research.google.com/drive/1u_Da6Ql028BN7vbmbk4pCiq53xBoT30F?usp=sharing)
