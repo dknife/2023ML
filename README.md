@@ -76,3 +76,5 @@
 ## 실습 6: 분류와 클러스터링
 
 [실습 6-1: KNN 분류기 연습](https://colab.research.google.com/drive/1u_Da6Ql028BN7vbmbk4pCiq53xBoT30F?usp=sharing)
+
+[실습 6-2: 붓꽃 분류](https://colab.research.google.com/drive/1OMeZ3w7Ifl_XfX-8ONaUwrN0Ny9UQxZq?usp=sharing)
