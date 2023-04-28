@@ -81,3 +81,8 @@
 [실습 6-2: 붓꽃 분류](https://colab.research.google.com/drive/1OMeZ3w7Ifl_XfX-8ONaUwrN0Ny9UQxZq?usp=sharing)
 
 [실습 6-3: 클러스터링](https://colab.research.google.com/drive/1gZMDrA9o_-KOQ4OlzmZrru9Rp8yx7mkH?usp=sharing)
+
+
+## 실습 7: 다항회귀
+
+[실습 7-1: 기대수명 예측에 다항회귀 적용](https://colab.research.google.com/drive/1XVWwbb_OXZ66yDV-Cy74cCizCRtn3135?usp=sharing)
