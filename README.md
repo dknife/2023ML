@@ -94,6 +94,9 @@
 
 [실습 8-1: 퍼셉트론으로 논리회로 구현하기](https://colab.research.google.com/drive/11Wcwlxsy9FK2zUAWr5WaNJnlzYLhgU7Z?usp=sharing)
 
+[실습 8-2: 헵의 학습 규칙으로 학습하는 퍼셉트론](https://colab.research.google.com/drive/1AAw72mIEqvXUeYNt2qQVyjCKn0EeHY2Q?usp=sharing)
+
+
 
 참고코드:
 
