@@ -92,6 +92,9 @@
 
 ## 실습 8: 신경망의 시작
 
+[실습 8-1: 퍼셉트론으로 논리회로 구현하기](https://colab.research.google.com/drive/11Wcwlxsy9FK2zUAWr5WaNJnlzYLhgU7Z?usp=sharing)
+
+
 참고코드:
 
 [퍼셉트론 구조로 신경만 만들어 보기](https://colab.research.google.com/drive/1oUmx21-Va07WFeFBcFEtLP-5JURznyM7?usp=sharing)
