@@ -96,7 +96,7 @@
 
 [실습 8-2: 헵의 학습 규칙으로 학습하는 퍼셉트론](https://colab.research.google.com/drive/1AAw72mIEqvXUeYNt2qQVyjCKn0EeHY2Q?usp=sharing)
 
-[8-3: 다항변환을 이용하여 XOR를 푸는 퍼셉트론 만들기)(https://colab.research.google.com/drive/1jGdjaFDHljAcZtVfZx_wSY-ej3brWzIA)
+[8-3: 다항변환을 이용하여 XOR를 푸는 퍼셉트론 만들기](https://colab.research.google.com/drive/1jGdjaFDHljAcZtVfZx_wSY-ej3brWzIA)
 
 참고코드:
 
