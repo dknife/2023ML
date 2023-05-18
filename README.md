@@ -100,12 +100,6 @@
 
 참고코드:
 
-[퍼셉트론 구조로 신경만 만들어 보기](https://colab.research.google.com/drive/1oUmx21-Va07WFeFBcFEtLP-5JURznyM7?usp=sharing)
-
-[플라스틱 퍼셉트론 - 신경망 학습의 시작](https://colab.research.google.com/drive/1ZQEtpJ96hoHjKIjEvJBxMPRy4f2UvNCx?usp=sharing)
-
-[다항변환을 이용한 XOR해결](https://colab.research.google.com/drive/1Esi7BIPiDkXfZ3e9JaAQdiDLW5cUqUZa?usp=sharing)
-
 [다층 퍼셉트론을 이용한 XOR 해결](https://colab.research.google.com/drive/1TZ8aJss20FuTM1CVx3mv1y5vWlxrHeMt#scrollTo=G8b_nvvWHI0E)
 
 [다층 퍼셉트론을 이용한 비선형 회귀](https://colab.research.google.com/drive/1aAwqkqCPyTdzLuHe8PGZpLWXXiERvA4D?usp=sharing#scrollTo=SBSGIexHhRQw)
