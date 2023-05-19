@@ -98,6 +98,12 @@
 
 [8-3: 다항변환을 이용하여 XOR를 푸는 퍼셉트론 만들기](https://colab.research.google.com/drive/1jGdjaFDHljAcZtVfZx_wSY-ej3brWzIA)
 
+
+## 실습 9: 다층 퍼셉트론의 학습
+
+[9-1:다층퍼셉트론을 이용한 XOR 해결](https://colab.research.google.com/drive/1EvjkrFY_lzQKbviw9kZAAsM45GS80odD?usp=sharing)
+
+
 참고코드:
 
 [다층 퍼셉트론을 이용한 XOR 해결](https://colab.research.google.com/drive/1TZ8aJss20FuTM1CVx3mv1y5vWlxrHeMt#scrollTo=G8b_nvvWHI0E)
