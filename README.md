@@ -120,3 +120,7 @@
 [10-2: 텐서플로우를 이용한 비선형 회귀의 개선](https://colab.research.google.com/drive/1VlHGQxJ4l1oLzMMU4WOdwB4Tq0pVr08i)
 
 [10-3: 텐서플로우를 이용한 MNIST 인식](https://colab.research.google.com/drive/12bBvuyXfnMnGj8u4FynMYmRRUicdHWG7?usp=sharing)
+
+## 실습 11: 텐서플로우 심화
+
+[11-1: 텐서플로우를 이용한 Fashion MNIST 인식](https://colab.research.google.com/drive/1JRdYd-uUV7x8lz0s4RVjSe-Q_x36NIFO?usp=sharing)
