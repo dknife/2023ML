@@ -35,6 +35,8 @@
 
 [8. 고급신경회로망](https://github.com/dknife/2023ML/raw/main/LectureNotes/08%EC%9E%A5_%EA%B3%A0%EA%B8%89%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B5%AC%ED%98%84.pdf)
 
+[9. 합성곱 신경망](https://github.com/dknife/2023ML/blob/main/LectureNotes/09%EC%9E%A5_%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EB%B6%80%ED%9D%A5%EC%9D%98%20%EC%8B%9C%EC%9E%91%2C%20%ED%95%A9%EC%84%B1%EA%B3%B1%20%EC%8B%A0%EA%B2%BD%EB%A7%9D.pdf)
+
 # 실습
 
 ## 실습 2: 구현 환경
