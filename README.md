@@ -126,3 +126,8 @@
 ## 실습 11: 텐서플로우 심화
 
 [11-1: 텐서플로우를 이용한 Fashion MNIST 인식](https://colab.research.google.com/drive/1JRdYd-uUV7x8lz0s4RVjSe-Q_x36NIFO?usp=sharing)
+
+## 실습 12: 합성곱 신경망
+
+[12-1: 합성곱의 적용]
+
