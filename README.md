@@ -129,5 +129,5 @@
 
 ## 실습 12: 합성곱 신경망
 
-[12-1: 합성곱의 적용]
+[12-1: 합성곱의 적용](https://colab.research.google.com/drive/1kXPBQJ3rauv9Ic4_Ud_6N-1pyLsnP9yB?usp=sharing)
 
