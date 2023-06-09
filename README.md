@@ -132,3 +132,5 @@
 [12-1: 합성곱의 적용](https://colab.research.google.com/drive/1kXPBQJ3rauv9Ic4_Ud_6N-1pyLsnP9yB?usp=sharing)
 
 [12-2: 합성곱 신경망을 이용한 Fashion-MNIST 인식](https://colab.research.google.com/drive/1xI2IXbXe6MUZ3LhGbZujn1Kss8oH-rbq)
+
+[12-3: Inception 모델 사용](https://colab.research.google.com/drive/1eZ-AxIQO67Y-8mEjXkIh58zTTx9_qa14)
