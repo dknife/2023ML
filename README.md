@@ -136,3 +136,7 @@
 [12-3: Inception 모델 사용](https://colab.research.google.com/drive/1eZ-AxIQO67Y-8mEjXkIh58zTTx9_qa14)
 
 [얼굴찾기](https://colab.research.google.com/drive/1_j5NBI0P3yjpoILDHx8Hl3KiKQu-7at5#scrollTo=g0WWYEBopg-H)
+
+## 기말고사 4번 문제 기본 코드
+
+[기말고사 4번 문제: 기본 데이터 읽기 코드](https://colab.research.google.com/drive/1pcfIwUAJnw-yXh3cLFQM5zeHrDPjHgwr)
